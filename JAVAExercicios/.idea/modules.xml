@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVAExercicios.iml" filepath="$PROJECT_DIR$/.idea/JAVAExercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosJAVA/exercicios/diobancodigitaljavaoo/diobancodigitaljavaoo.iml" filepath="$PROJECT_DIR$/exerciciosJAVA/exercicios/diobancodigitaljavaoo/diobancodigitaljavaoo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosJAVA/exercicios/diogft4desafio-abstracao-com-poo.iml" filepath="$PROJECT_DIR$/exerciciosJAVA/exercicios/diogft4desafio-abstracao-com-poo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosJAVA/exercicios/diobancodigitaljavaoo/diogft4desafio-abstracao-com-poo-java.iml" filepath="$PROJECT_DIR$/exerciciosJAVA/exercicios/diobancodigitaljavaoo/diogft4desafio-abstracao-com-poo-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosJAVA/exercicios/exercicios.iml" filepath="$PROJECT_DIR$/exerciciosJAVA/exercicios/exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/exerciciosJAVA/exercicios/mentoria-gft-4-poo/mentoria-gft-4-poo.iml" filepath="$PROJECT_DIR$/exerciciosJAVA/exercicios/mentoria-gft-4-poo/mentoria-gft-4-poo.iml" />
+    </modules>
+  </component>
+</project>
