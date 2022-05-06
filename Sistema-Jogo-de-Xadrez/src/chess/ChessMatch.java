@@ -3,6 +3,9 @@ package chess;
 // CLasse que irá conter as regras do jogo de xadrez.
 
 import boardgame.Board;
+import boardgame.Position;
+import chess.pieces.King;
+import chess.pieces.Rook;
 
 public class ChessMatch {
 
@@ -10,6 +13,7 @@ public class ChessMatch {
 
     public ChessMatch() {
         board = new Board(8, 8);
+        initialSetup();
     }
 
     public ChessPiece[][] getPieces() {
@@ -20,6 +24,13 @@ public class ChessMatch {
             }
         }
         return mat;
+
+    }
+
+    private void initialSetup () {
+        board.placePiece(new Rook(board, Color.WHITE), new Position(7,1));
+        board.placePiece(new King(board, Color.BLACK), new Position(3, 1));
+        board.placePiece(new King(board, Color.WHITE), new Position(7, 4));
 
     }
 }
