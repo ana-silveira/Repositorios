@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653414139 source:c:\repositorios\exercicios_c\avaliacao1_ltp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

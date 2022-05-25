@@ -1,6 +1,6 @@
 /* Avaliação – Trabalho da Disciplina [AVA 1]
 
-Situacção problematizadora: Uma empresa necessita de um programa que simule uma calculadora para poder ajudar
+Situação problematizadora: Uma empresa necessita de um programa que simule uma calculadora para poder ajudar
 o setor financeiro a realizar as operações triviais  (soma, subtração, multiplicação e divisão).
 É importante que a calculadora calcule de forma simultânea todas as quatro operações e exiba os seus respectivos valores.
 
@@ -19,10 +19,10 @@ int main()
 
     system("cls");
 
+    // Entrada:
     printf("======== Programa de Calculadora desenvolvido pela aluna Ana Carolina. ======== \n");
     printf("\n");
 
-    // Entrada:
     printf("Informe o primeiro valor: ");
     scanf("%f", &valor1);
     printf("Informe o segundo valor: ");

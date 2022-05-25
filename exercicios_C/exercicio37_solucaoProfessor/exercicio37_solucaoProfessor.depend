@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1653335058 source:c:\repositorios\exercicios_c\exercicio37_solucaoprofessor\main.c
+	<conio.h>
+	<stdio.h>
+
