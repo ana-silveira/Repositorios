@@ -5,7 +5,6 @@ menor ou igual a 600,00 – isento
 maior que 600,00 e menor ou igual a 1.200,00 – 20%
 maior que 1.200,00 e menor ou igual a 2.000,00 – 25%
 maior que 2.000,00 30%
-
 */
 
 #include <stdio.h>
@@ -35,9 +34,5 @@ int main()
              puts (" Isento de desconto do INSS \n");
             }
         }
-      }
-
-
-
-
+     }
 }
