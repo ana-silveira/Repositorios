@@ -10,20 +10,20 @@ int main()
 {
     system("cls");
 
-  /*  for (int i = 1; i <=30; i++){
-            if ( i % 2 = 0)
+    for (int i = 1; i <=30; i++)
+        {
+            if ( i % 2 == 0)
                 printf("%d\n", i);
-            else {
-                continue;
             }
-    */
 
-    int i = 1;
 
-    while ( (i % 2 = 0) &&  (i<=30) ) {
+ /*   int i = 1;
+
+    do
         printf("%d\n", i);
-        i++
-    }
+        i++;
+    while ( (i % 2 = 0) && (i<=30) );
 
         system("pause");
+        */
 }
