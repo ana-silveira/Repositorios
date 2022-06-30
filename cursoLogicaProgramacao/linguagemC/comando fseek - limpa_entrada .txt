@@ -1,0 +1,15 @@
+o comando de limpeza de buffer -->> fseek(stdin, 0, SEEK_END) <<--  não está mais funcionando muito bem nos copiladores de linguagem C.
+Por isso, o prof. Nelio sugeriu a substituição deste comando pelo método limpar_entrada().
+O método deve vir antes do main ().
+
+
+void limpar_entrada() {
+	char c;
+	while ( (c = getchar()) != '\n' && (c != EOF) ) {}
+}
+
+
+É sempre bom inserir o comando de limpeza ANTES do scanf. 
+
+
+Exemplo para consulta: projeto "teste_repita_ate"

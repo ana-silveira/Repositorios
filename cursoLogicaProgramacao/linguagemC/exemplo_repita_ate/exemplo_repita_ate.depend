@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656622678 source:c:\repositorios\cursologicaprogramacao\linguagemc\exemplo_repita_ate\main.c
+	<stdio.h>
+	<stdlib.h>
+

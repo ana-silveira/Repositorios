@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1656619650 source:c:\repositorios\cursologicaprogramacao\linguagemc\projetohora\main.c
+	<stdio.h>
+	<stdlib.h>
+
