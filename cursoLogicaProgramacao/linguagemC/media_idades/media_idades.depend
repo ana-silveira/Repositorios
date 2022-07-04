@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656940864 source:c:\repositorios\cursologicaprogramacao\linguagemc\media_idades\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+

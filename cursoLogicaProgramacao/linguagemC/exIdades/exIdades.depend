@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656698461 source:c:\repositorios\cursologicaprogramacao\linguagemc\exidades\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

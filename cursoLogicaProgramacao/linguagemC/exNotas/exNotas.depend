@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656699216 source:c:\repositorios\cursologicaprogramacao\linguagemc\exnotas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

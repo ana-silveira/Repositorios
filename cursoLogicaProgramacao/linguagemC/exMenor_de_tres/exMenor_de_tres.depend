@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656702532 source:c:\repositorios\cursologicaprogramacao\linguagemc\exmenor_de_tres\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+

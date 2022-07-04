@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656700390 source:c:\repositorios\cursologicaprogramacao\linguagemc\exbaskara\main.c
+	<stdio.h>
+	<locale.h>
+	<math.h>
+
